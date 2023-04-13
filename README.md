@@ -48,8 +48,7 @@ def main():
             y = int(input())
             print("answer : ", division(x,y))
         else:
-            print("Thank you")
+            print("Thank you~")
 
 if __name__ == "__main__":
     main()
-
